@@ -1,5 +1,5 @@
 # F-OFDM-Code
-This repository contains a full set of codes about F-OFDM Simulation. All the codes are written in Matlab.
+This repository contains a full set of codes about F-OFDM Simulation. All the codes were written on Matlab.
 
 We did a simulation about Filtered OFDM and OFDM on MatLab. 
 
